@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import Button from '..common/common/Button';
+import Button from '..common/Button';
 
 const Branch = () => {
     
